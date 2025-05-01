@@ -1,8 +1,5 @@
 CREATE DATABASE BooksDB;
 
-USE BooksDB;
-GO
-
 CREATE TABLE Books (
     id INT IDENTITY(1,1) PRIMARY KEY,
     title NVARCHAR(255),
