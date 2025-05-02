@@ -10,5 +10,7 @@ CREATE TABLE Books (
     source NVARCHAR(100),
     rating_num INT
 );
+ALTER TABLE Books
+	ADD Avialability_Num INT;
 
 select * from Books;
