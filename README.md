@@ -82,8 +82,8 @@ Our final product includes:
  ┗ 📜file_version.ssmssl              ← Auto-saved state (can be ignored)
 ```
 
-```txt
-📊 Project Highlights
+
+## 📊 Project Highlights
   ✅ Web scraping from 3 diverse sources
 
   ✅ Regex-based data cleaning and standardization
