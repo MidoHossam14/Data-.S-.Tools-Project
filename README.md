@@ -82,6 +82,19 @@ Our final product includes:
  ┗ 📜file_version.ssmssl              ← Auto-saved state (can be ignored)
 ```
 
+```📊 Project Highlights
+  ✅ Web scraping from 3 diverse sources
+
+  ✅ Regex-based data cleaning and standardization
+
+  ✅ Descriptive statistics on price & rating trends
+
+  ✅ Visualizations for top categories, pricing patterns, and source comparisons
+
+  ✅ Data pushed to SQL Server for structured storage
+
+  🟡 (In progress): Streamlit app for interactive querying & book comparison
+```
 ## 🛡️ License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/MidoHossam14/Data-.S-.Tools-Project/blob/main/LICENSE) file for details.
