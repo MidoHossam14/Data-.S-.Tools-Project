@@ -1,4 +1,4 @@
-# 📚 Book Price Analysis  
+ # 📚 Book Price Analysis  
 A data-driven project by **Team DataCrafters**
 
 ## 📖 Project Overview  
@@ -82,7 +82,8 @@ Our final product includes:
  ┗ 📜file_version.ssmssl              ← Auto-saved state (can be ignored)
 ```
 
-```📊 Project Highlights
+```txt
+📊 Project Highlights
   ✅ Web scraping from 3 diverse sources
 
   ✅ Regex-based data cleaning and standardization
