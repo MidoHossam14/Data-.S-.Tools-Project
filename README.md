@@ -38,14 +38,44 @@ Our final product includes:
 
 ## 🚀 How to Run the Project
 
-### 1. Clone the Repository
+## How to Use and Run
 
-```bash
-git clone https://github.com/YourUsername/BookPriceAnalysis.git
-cd BookPriceAnalysis
+1. **Clone the Repository**:
 
-pip install -r requirements.txt
+   ```bash
+   git clone https://github.com/MidoHossam14/Data-.S-.Tools-Project.git
+   cd FULL-PROJECT
+2. **Install Dependencies**:
 
-streamlit run app.py
+    Ensure you have Python installed (recommended: `Python 3.9`). Install the required libraries using:
+
+    ```bash
+    pip install -r requirements.txt
+3. **Run Jupyter Notebooks**:
+
+    Navigate to the `notebooks` folder and launch Jupyter:
+
+    ```bash
+    jupyter notebook
+3. **Run Streamlit App**:
+
+    Navigate to the `notebooks` folder and launch Jupyter:
+
+    ```bash
+    streamlit run app.py
+
+- Open the desired notebook and execute the cells to run the code.
+
+## 🛡️ License
+
+This project is licensed under the MIT License. See the [LICENSE]() file for details.
+
+
+## ☕ Stay Connected
+Let's stay in touch! Feel free to connect with us :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-hossam-6047ab30b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-yasser-5a56672ab/i)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ayman-52053328a/)
+
 
 
