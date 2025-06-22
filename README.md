@@ -65,7 +65,10 @@ Our final product includes:
     streamlit run app.py
 
 - Open the desired notebook and execute the cells to run the code.
-- 📦 BookPriceAnalysis/
+##  📂 Repository Structure
+
+ ```txt
+📦 BookPriceAnalysis/
  ┣ 📜BooksPriceAnalysis.ipynb         ← Main analysis notebook
  ┣ 📜BookPriceComparison.py           ← Streamlit app for book search & comparison
  ┣ 📜books.csv                        ← Raw merged dataset
@@ -77,7 +80,7 @@ Our final product includes:
  ┣ 📜LICENSE                          ← MIT License
  ┣ 📜README.md                        ← You’re reading it now
  ┗ 📜file_version.ssmssl              ← Auto-saved state (can be ignored)
-
+```
 
 ## 🛡️ License
 
