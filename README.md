@@ -65,6 +65,19 @@ Our final product includes:
     streamlit run app.py
 
 - Open the desired notebook and execute the cells to run the code.
+- 📦 BookPriceAnalysis/
+ ┣ 📜BooksPriceAnalysis.ipynb         ← Main analysis notebook
+ ┣ 📜BookPriceComparison.py           ← Streamlit app for book search & comparison
+ ┣ 📜books.csv                        ← Raw merged dataset
+ ┣ 📜books_data_cleaned.csv           ← Cleaned dataset
+ ┣ 📜Booksdb.sql                      ← SQL Server database schema
+ ┣ 📜FinalReport.docx                 ← Project final report
+ ┣ 📜ProjectDetails.docx              ← Project requirements
+ ┣ 📜DS_Final_Project.pdf             ← PDF version of project
+ ┣ 📜LICENSE                          ← MIT License
+ ┣ 📜README.md                        ← You’re reading it now
+ ┗ 📜file_version.ssmssl              ← Auto-saved state (can be ignored)
+
 
 ## 🛡️ License
 
